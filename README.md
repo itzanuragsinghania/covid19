@@ -1,5 +1,7 @@
 <h1 align="center" width="200">Covid19 State & District wise Tracker - India</h1>
 <p>Visualizes the number of Covid19 cases across all state and districts in India.</p>
+## *Important*
+The 4 cards take their time to update so the orignal count of confirmed cases should be at the lower boxes that contain info state wise.
 
 <h3><a href="https://itzanuragsinghania.github.io/covid19/">Real Time Tracker Website</a></h3>
 

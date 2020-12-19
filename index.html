@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Covid19 - India</title>
+    <meta name="description" content="India Covid 19 State and District wise Tracker">
+    <meta name="author" content="Anurag Singhania">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1">
+    <meta property="og:title" content="India Covid 19 State and District wise Tracker">
+    <meta property="og:description"
+        content="Real Time Visualization of India COVID-19 data based on state and district wise on daily basis">
+    <link rel="icon" type="image/png" href="src/img/icon.png">
+    <link rel="stylesheet" type="text/css" href="src/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="left">
+            <div class="title">
+                <img src="src/img/covid.svg">
+                <h1>India State and District wise COVID-19 Tracker</h1>
+            </div>
+            <div class="subtitle">Built by
+                <a href="https://www.instagram.com/cursed_by_hatred/">Anurag</a>, Check out the source code
+                here<a href="https://github.com/itzanuragsinghania/covid19">Github</a></div>
+        </div>
+        <div class="right">
+            <div class="links"><label> Indian Govt Website:</label><a href="https://www.mohfw.gov.in/">Ministry of
+                    Health
+                    and
+                    Family Welfare</a></div>
+            <div class="links"><label>Helpline Numbers:</label><a href="https://www.mygov.in/covid-19">India -
+                    COVID-19</a></div>
+        </div>
+    </header>
+    <div class="wrapper">
+        <div class="cards">
+            <div class="card">
+                <div class="inner-card active">
+                    <p class="card-number"></p>
+                    <p class="card-text">Confirmed Cases</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="inner-card confirmed">
+                    <p class="card-number"></p>
+                    <p class="card-text">Active cases</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="inner-card recovered">
+                    <p class="card-number"></p>
+                    <p class="card-text">Recovered Cases</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="inner-card death">
+                    <p class="card-number"></p>
+                    <p class="card-text">Death Cases</p>
+                </div>
+            </div>
+        </div>
+        <div id='map'></div>
+    </div>
+    <script src="dist/webtree.min.js"></script>
+    <script src="dist/script.min.js"></script>
+</body>
+
+</html>

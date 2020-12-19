@@ -1,7 +1,7 @@
 <h1 align="center" width="200">Covid19 State & District wise Tracker - India</h1>
 <p>Visualizes the number of Covid19 cases across all state and districts in India.</p>
 
-<h3><a href="https://github.com/itzanuragsinghania/covid19/">Real Time Tracker Website</a></h3>
+<h3><a href="https://itzanuragsinghania.github.io/covid19/">Real Time Tracker Website</a></h3>
 
 ## ⚡️ Usage:
 1. Clone the repo

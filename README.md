@@ -1,12 +1,12 @@
 <h1 align="center" width="200">Covid19 State & District wise Tracker - India</h1>
 <p>Visualizes the number of Covid19 cases across all state and districts in India.</p>
 
-<h3><a href="https://pajaydev.github.io/covid19-india/">Real Time Tracker Website</a></h3>
+<h3><a href="https://github.com/itzanuragsinghania/covid19/">Real Time Tracker Website</a></h3>
 
 ## ⚡️ Usage:
 1. Clone the repo
 ```shell
-git clone git@github.com:pajaydev/covid19-india.git
+git clone git@github.com:itzanuragsinghania/covid19.git
 ```
 2. Install dependencies
 ```shell
@@ -24,7 +24,7 @@ npm run build
 ```
 
 ## 👍 Contribution:
-Feel free to contribute or create an [Issue or Feature request](https://github.com/pajaydev/covid19-india/issues).
+Feel free to contribute or create an [Issue or Feature request](https://github.com/itzanuragsinghania/covid19/issues).
 
 ### Credits.
 1. [India. Covid-19 API's](https://github.com/amodm/api-covid19-in)
